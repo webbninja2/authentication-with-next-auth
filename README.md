@@ -37,6 +37,7 @@ yarn install
 
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
+NEXTAUTH_SECRET="LSKFJLSDKFJLSFLSKDJFLSD",
 NEXTAUTH_URL=http://localhost:3000
 
 4. Start the development server:
